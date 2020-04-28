@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/cursor-react7/static/css/main.5205ea28.chunk.css",
+    "main.js": "/cursor-react7/static/js/main.91b6cf68.chunk.js",
+    "main.js.map": "/cursor-react7/static/js/main.91b6cf68.chunk.js.map",
+    "runtime-main.js": "/cursor-react7/static/js/runtime-main.0c269fe5.js",
+    "runtime-main.js.map": "/cursor-react7/static/js/runtime-main.0c269fe5.js.map",
+    "static/js/2.eeee2955.chunk.js": "/cursor-react7/static/js/2.eeee2955.chunk.js",
+    "static/js/2.eeee2955.chunk.js.map": "/cursor-react7/static/js/2.eeee2955.chunk.js.map",
+    "index.html": "/cursor-react7/index.html",
+    "precache-manifest.ef096e6882e1becc4c8e046a7d62d9b8.js": "/cursor-react7/precache-manifest.ef096e6882e1becc4c8e046a7d62d9b8.js",
+    "service-worker.js": "/cursor-react7/service-worker.js",
+    "static/css/main.5205ea28.chunk.css.map": "/cursor-react7/static/css/main.5205ea28.chunk.css.map",
+    "static/js/2.eeee2955.chunk.js.LICENSE.txt": "/cursor-react7/static/js/2.eeee2955.chunk.js.LICENSE.txt",
+    "static/media/author-min.jpg": "/cursor-react7/static/media/author-min.8f0cdaba.jpg",
+    "static/media/books-min.jpg": "/cursor-react7/static/media/books-min.67a0d5de.jpg",
+    "static/media/dog.png": "/cursor-react7/static/media/dog.9251733a.png",
+    "static/media/App.css": "/cursor-react7/static/media/fog.8e1199e9.jpg",
+    "static/media/pazzle-min.jpg": "/cursor-react7/static/media/pazzle-min.b5eadc9c.jpg",
+    "static/media/po.png": "/cursor-react7/static/media/po.529ce178.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0c269fe5.js",
+    "static/js/2.eeee2955.chunk.js",
+    "static/css/main.5205ea28.chunk.css",
+    "static/js/main.91b6cf68.chunk.js"
+  ]
+}
