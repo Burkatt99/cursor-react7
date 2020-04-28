@@ -1,0 +1,27 @@
+.addUser {
+  width: 40%;
+  height: auto;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin: 40px 30%;
+}
+.addUser input,
+button {
+  width: 40%;
+  margin: 10px 20px;
+  height: 30px;
+  border-radius: 12px;
+  color: rgb(5, 43, 5);
+  outline: none;
+  padding-left: 10px;
+}
+#avatar {
+  width: 90%;
+}
+.addUser button {
+  width: 30%;
+  padding-left: 0;
+  color: rgb(5, 43, 5);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 20px;
+}

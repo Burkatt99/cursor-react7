@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Comic+Neue:wght@700&display=swap");
+* {
+  padding: 0;
+  margin: 0;
+}
+body {
+  height: 1000px;
+}
+.menu {
+  width: 100%;
+  margin-top: 15px;
+}
+.menu ul {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-around;
+}
+li {
+  list-style: none;
+  width: 13%;
+  height: 35px;
+  border-top: 0px;
+  text-align: center;
+}
+.link {
+  text-decoration: none;
+  color: #006600;
+  font-size: 30px;
+  font-family: "Dancing Script", cursive;
+}
+.link:hover {
+  color: #0d3300;
+  text-shadow: 0.1px 0.1px 0.1px #0d3300, 0 0 1em rgb(12, 122, 27);
+}
